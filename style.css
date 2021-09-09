@@ -1,0 +1,31 @@
+    .lightbg{
+        background-color: #f8e0da;
+    }
+
+    .darkbg{
+        background-color: #ffae9a; 
+        color: white;
+    }
+
+    .darkbgxs{
+        background-color: #ffae9a; 
+        color: white;
+        font-size: x-small; 
+    }
+    .gapfill{
+        margin-top: -15px;
+    }
+
+    .logo{
+        color:white;
+        text-decoration-line: none;
+    }
+
+    .navbar1{
+        color: white;
+        text-decoration-line: none;
+    }
+
+    .hello{
+        background-image: linear-gradient(rbga(0,0,0,0.5),rbga(0,0,0,0.5));
+    }
